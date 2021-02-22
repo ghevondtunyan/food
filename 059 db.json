@@ -23,15 +23,6 @@
     }
   ],
   "requests": [
-    {
-      "name": "Ghevond Tunyan",
-      "phone": "37493766525",
-      "id": 1
-    },
-    {
-      "name": "Ghevond ",
-      "phone": "52543766525",
-      "id": 2
-    }
+      
   ]
 }
